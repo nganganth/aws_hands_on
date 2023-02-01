@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "awshandsonamplifyrea7925cd1d": {}
+      },
+      "api": {
+        "awshandsonamplifyrea": {}
+      },
+      "storage": {
+        "s371978815": {}
       }
     }
   }
