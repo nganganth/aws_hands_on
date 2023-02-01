@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Hands-on
+1. Create a new React application
+```
+npx create-react-app amplifyapp
+cd amplifyapp
+npm start
+```
+2. Install the Amplify CLI
+```
+npm install -g @aws-amplify/cli
+```
+3. Configure the Amplify CLI
+```
+amplify configure
+```
+
+
